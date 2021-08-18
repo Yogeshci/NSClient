@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSClient", "NSClient.csproj", "{5ED623DF-6B66-4648-8855-3015F1E08BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectApp", "..\ConnectApp\ConnectApp.csproj", "{6FE9C4A0-57EE-454E-824C-41D032DDB268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetsuiteConnectTest", "..\NetsuiteConnectTest\NetsuiteConnectTest.csproj", "{B3AC4E83-4636-4ACA-8799-BD76EBCA5838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED623DF-6B66-4648-8855-3015F1E08BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED623DF-6B66-4648-8855-3015F1E08BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED623DF-6B66-4648-8855-3015F1E08BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED623DF-6B66-4648-8855-3015F1E08BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE9C4A0-57EE-454E-824C-41D032DDB268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE9C4A0-57EE-454E-824C-41D032DDB268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE9C4A0-57EE-454E-824C-41D032DDB268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE9C4A0-57EE-454E-824C-41D032DDB268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AC4E83-4636-4ACA-8799-BD76EBCA5838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AC4E83-4636-4ACA-8799-BD76EBCA5838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AC4E83-4636-4ACA-8799-BD76EBCA5838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AC4E83-4636-4ACA-8799-BD76EBCA5838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85104BA4-017C-4BAF-9442-77354BF52853}
+	EndGlobalSection
+EndGlobal

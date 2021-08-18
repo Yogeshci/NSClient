@@ -1,0 +1,6 @@
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\NetsuiteConnectTest\bin\Debug\NetsuiteConnectTest.dll.config
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\NetsuiteConnectTest\bin\Debug\NetsuiteConnectTest.dll
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\NetsuiteConnectTest\bin\Debug\NetsuiteConnectTest.pdb
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\NetsuiteConnectTest\obj\Debug\NetsuiteConnectTest.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\NetsuiteConnectTest\obj\Debug\NetsuiteConnectTest.dll
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\NetsuiteConnectTest\obj\Debug\NetsuiteConnectTest.pdb

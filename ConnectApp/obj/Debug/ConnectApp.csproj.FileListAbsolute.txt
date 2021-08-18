@@ -1,0 +1,18 @@
+C:\Program Files (x86)\NetSuite\ConnectApp\bin\Debug\ConnectApp.exe.config
+C:\Program Files (x86)\NetSuite\ConnectApp\bin\Debug\ConnectApp.exe
+C:\Program Files (x86)\NetSuite\ConnectApp\bin\Debug\ConnectApp.pdb
+C:\Program Files (x86)\NetSuite\ConnectApp\obj\Debug\ConnectApp.csprojAssemblyReference.cache
+C:\Program Files (x86)\NetSuite\ConnectApp\obj\Debug\ConnectApp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\NetSuite\ConnectApp\obj\Debug\ConnectApp.exe
+C:\Program Files (x86)\NetSuite\ConnectApp\obj\Debug\ConnectApp.pdb
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\bin\Debug\ConnectApp.exe.config
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\bin\Debug\ConnectApp.exe
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\bin\Debug\ConnectApp.pdb
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\obj\Debug\ConnectApp.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\obj\Debug\ConnectApp.exe
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\obj\Debug\ConnectApp.pdb
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\bin\Debug\NetsuiteConnectTest.dll
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\bin\Debug\NetsuiteConnectTest.pdb
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\bin\Debug\NetsuiteConnectTest.dll.config
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\obj\Debug\ConnectApp.csproj.AssemblyReference.cache
+C:\Users\yogesh.ckumaravel\source\repos\NetSuite\ConnectApp\obj\Debug\ConnectApp.csproj.CopyComplete
